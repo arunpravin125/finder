@@ -4,9 +4,6 @@ import { Search } from 'lucide-react'
 import RecipeCard from '../components/RecipeCard'
 import { getRandomColor } from '../utiles/randomColors'
 
-;
-
-
 
 
 function HomePage() {
