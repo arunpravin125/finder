@@ -9,8 +9,8 @@ import { getRandomColor } from '../utiles/randomColors'
 function HomePage() {
     
     
-const API_ID="32451e96"
-const API_KEY="c2f4fb512cae0cbef5deb4c45a0083ca"
+// const API_ID="32451e96"
+// const API_KEY="c2f4fb512cae0cbef5deb4c45a0083ca"
 
 const [recipe,setrecipe]=useState([])
 const [loading,setloading]=useState()
